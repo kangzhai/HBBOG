@@ -9,6 +9,12 @@ Xinming Zhang, Qiang Kang, Jinfeng Cheng, Xia Wang. A novel hybrid algorithm bas
 # Others
 More related research of Team Prof. Zhang can be found below.
 
+EMBBO:
+
+Xinming Zhang, Qiang Kang, Qiang Tu, Jinfeng Cheng, Xia Wang. Efficient and merged biogeography-based optimization algorithm for global optimization problems. Soft Computing, 2019, 23: 4483–4502. https://doi.org/10.1007/s00500-018-3113-1
+
+The codes of EMBBO are available at https://github.com/kangzhai/EMBBO.
+
 HBBOS:
 
 Xinming Zhang, Qiang Kang, Xia Wang. Hybrid biogeography-based optimization with shuffled frog leaping algorithm and its application to minimum spanning tree problems. Swarm and Evolutionary Computation, 2019, 49: 245-265. https://doi.org/10.1016/j.swevo.2019.07.001
