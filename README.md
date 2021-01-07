@@ -39,7 +39,7 @@ Xinming Zhang, Qiuying Lin, Wentao Mao, Shangwang Liu, Zhi Dou, Guoqi Liu. Hybri
 
 The codes of HGWOP are available at https://github.com/kangzhai/HGWOP/.
 
-## Chinese monograph
+## Chinese monograph:
 
 We also recommend our Chinese monograph as below, which describes in detail various improved biogeography-based optimization algorithms and their applications to image segmentation.
 
